@@ -1,0 +1,19 @@
+{
+    "port_context_columns": [
+        "Ports",
+        "Service",
+        "Version",
+        "CVEs"
+    ],
+    "port_context_rows": [
+        {
+            "label": "127.0.0.1",
+            "cols": [
+                "22",
+                "ssh",
+                "4.7p1 Debian 8ubuntu1",
+                "CVE-2023-48795\nCVE-2023-51385\nCVE-2023-38408\nCVE-2021-36368\nCVE-2020-15778\nCVE-2019-6111\nCVE-2019-6110\nCVE-2019-6109\nCVE-2018-20685\nCVE-2018-15473\nCVE-2017-15906\nCVE-2016-6515\nCVE-2016-6210\nCVE-2016-3115\nCVE-2016-20012\nCVE-2016-1908\nCVE-2016-10708\nCVE-2016-10012\nCVE-2016-10011\nCVE-2016-10010\nCVE-2016-10009\nCVE-2015-8325\nCVE-2015-6564\nCVE-2015-6563\nCVE-2015-5600\nCVE-2015-5352\nCVE-2014-2653\nCVE-2014-2532\nCVE-2014-1692\nCVE-2012-0814\nCVE-2011-5000\nCVE-2011-4327\nCVE-2010-5107\nCVE-2010-4755\nCVE-2010-4478\nCVE-2008-3259\nCVE-2008-1657"
+            ]
+        }
+    ]
+}
